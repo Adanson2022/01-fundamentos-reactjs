@@ -1,4 +1,5 @@
 import { Post } from './Post';
+import { Header } from './components/Header';
 
 import './styles.css';
 
@@ -6,19 +7,21 @@ export function App() {
 
   return (
     <div>
+      <Header />
+
       <Post
         author="Bruno Mito"
-        content="Brunão do Angelim, comedor de KitKat."
+        content="Estudante Engenharia de Computação."
       />
 
       <Post 
-        author="Marcos Hackeado"
-        content="Engenheiro de Computação que conseguiu ter seu instagram hackeado."
+        author="Marcos"
+        content="Estudante Engenharia de Computação."
       />
 
       <Post
-        author="Thiago Moedas"
-        content="Homem que Dorme."
+        author="Thiago Mendonça"
+        content="Estudante Engenharia de Computação."
       />
     </div>
 
