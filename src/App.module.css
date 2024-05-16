@@ -1,9 +1,9 @@
 .wrapper {
-    max-width: 70rem; /* 1200 pixels */
+    max-width: 70rem; /* 1120 pixels */
     margin: 2rem auto;
     padding: 0 1rem; /* 16 pixels */
 
-    diplay: grid;
+    display: grid;
     grid-template-columns: 256px 1fr; /* cada uma desses valores um ao lado da outro representam uma coluna */
     gap: 2rem;
     align-items: flex-start;
