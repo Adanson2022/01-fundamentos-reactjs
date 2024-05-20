@@ -10,6 +10,8 @@ export function Sidebar () {
             />
         
             <div className={styles.profile}>
+
+                                
                 <strong>Ádanson Fernando</strong>
                 <span>Engenheiro de Computação</span>
             </div>
