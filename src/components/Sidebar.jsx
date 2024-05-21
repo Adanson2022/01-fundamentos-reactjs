@@ -10,7 +10,8 @@ export function Sidebar () {
             />
         
             <div className={styles.profile}>
-
+                <img className={styles.avatar} src="https://media.licdn.com/dms/image/D4D35AQGR5NSLCX3qtw/profile-framedphoto-shrink_800_800/0/1676822270968?e=1716930000&v=beta&t=JT1I6eztv9LmOC9ostK-Z7pyazs_McGRwlRpzh76ocY" 
+                />
                                 
                 <strong>Ádanson Fernando</strong>
                 <span>Engenheiro de Computação</span>
