@@ -12,7 +12,7 @@ export function Sidebar () {
             />
         
             <div className={styles.profile}>
-                <img className={styles.avatar} src="https://media.licdn.com/dms/image/D4D35AQGR5NSLCX3qtw/profile-framedphoto-shrink_200_200/0/1676822270968?e=1718049600&v=beta&t=UZHhBW1FS7FOV1Dikl1b5X2vKJtj0Dd1QVsSlhY-0vQ" 
+                <img className={styles.avatar} src="https://e1.pxfuel.com/desktop-wallpaper/352/697/desktop-wallpaper-naruto-uzumaki-naruto-naruto-pinterest-naruto-profile.jpg" 
                 />
                                 
                 <strong>Ádanson Fernando</strong>
